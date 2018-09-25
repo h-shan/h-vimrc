@@ -14,12 +14,12 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 ```
 2. Launch vim and run `:PluginInstall`
 3. Follow instructions here: https://github.com/Valloric/YouCompleteMe#installation
-- For Linux, run
+- For MacOS, run
 ```
 cd ~/.vim/bundle/YouCompleteMe
 python3 install.py --clang-completer
 ```
-- For Mac, run
+- For Linux, run
 ```
 cd ~/.vim/bundle/YouCompleteMe
 ./install.py --clang-completer
