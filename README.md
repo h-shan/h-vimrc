@@ -2,6 +2,7 @@
 A simple .vimrc file
 
 Uses Vundle: https://github.com/VundleVim/Vundle.vim
+
 Includes NERDTree, YouCompleteMe, auto-pair
 
 To set up:
