@@ -18,7 +18,7 @@ git clone https://github.com/VundleVim/Vundle.vim.git ~/.vim/bundle/Vundle.vim
 - For MacOS, run
 ```
 cd ~/.vim/bundle/YouCompleteMe
-python3 install.py --clang-completer
+/usr/bin/python install.py --clang-completer
 ```
 - For Linux, run
 ```
