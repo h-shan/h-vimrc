@@ -24,6 +24,7 @@ set shiftwidth=2
 set expandtab
 set whichwrap+=<,>,h,l,[]
 set whichwrap+=<,>,h,l,[,]
+set mouse=a
 
 let g:ycm_confirm_extra_conf = 0
 let g:ycm_max_diagnostics_to_display = 30
